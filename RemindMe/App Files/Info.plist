@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>$(PRODUCT_DISPLAY_NAME) would like to access camera for profile Image </string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>$(PRODUCT_DISPLAY_NAME) would like to access library to save the Image</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>$(PRODUCT_DISPLAY_NAME) would like to access gallery for Remainder Image</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>AvenirLTStd-Light.otf</string>
+		<string>AvenirLTStd-Medium.otf</string>
+		<string>AvenirLTStd-Heavy.otf</string>
+	</array>
+</dict>
+</plist>
